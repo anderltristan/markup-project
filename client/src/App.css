@@ -1,0 +1,62 @@
+html,
+.App {
+  text-align: center;
+  background: #d4d4d4;
+}
+
+.container {
+  background: #ffffff;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+}
+
+.h1.hotel-name {
+  color: #6b6c7a;
+  text-transform: uppercase;
+}
+
+.main-content-header-name {
+  color: #9999a3;
+}
+
+.main-content-header-location-area {
+  cursor: pointer;
+}
+
+.main-content-header-right .h1 {
+  color: #f48721;
+  font-weight: bold;
+}
+
+.sidebar-list {
+  background: #efefef;
+}
+
+.sidebar-list-name {
+  color: #895e95;
+}
+
+.sidebar-list-price {
+  color: #6b6c7a;
+}
+
+.toggle-text {
+  color: #895e95;
+}
+
+.main-content-header-location span {
+  color: #6b6c7a;
+}
+
+.tab-navigation {
+  background: #895e95;
+  color: #dab6db;
+}
+
+.tab-navigation .active {
+  color: #ffffff;
+  border-bottom: 5px solid #733080;
+}
+
+.back-navigation {
+  color: #895e95;
+}
